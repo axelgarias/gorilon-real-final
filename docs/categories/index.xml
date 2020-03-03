@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ngorilon</title>
-    <link>http://www.example.com/categories/</link>
+    <link>https://axelgarias.github.io/gorilon-real-final/categories/</link>
     <description>Recent content in Categories on ngorilon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://axelgarias.github.io/gorilon-real-final/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>http://www.example.com/categories/development/</link>
+      <link>https://axelgarias.github.io/gorilon-real-final/categories/development/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/categories/development/</guid>
+      <guid>https://axelgarias.github.io/gorilon-real-final/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>http://www.example.com/categories/golang/</link>
+      <link>https://axelgarias.github.io/gorilon-real-final/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/categories/golang/</guid>
+      <guid>https://axelgarias.github.io/gorilon-real-final/categories/golang/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://axelgarias.github.io/gorilon-real-final/"
 publishDir = "docs"
 title = "ngorilon"
 
