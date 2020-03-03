@@ -1,4 +1,5 @@
 baseurl = "http://www.example.com"
+publishDir = "docs"
 title = "ngorilon"
 
 theme = "hugo-coder"
