@@ -64,35 +64,20 @@ disqusShortname = "yourdiscussshortname"
   tag = "tags"
 
 [[params.social]]
-    name = "Github"
-    icon = "fab fa-github"
-    weight = 1
-    url = "https://github.com/johndoe/"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
-[[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://twitter.com/ngorilon_/"
 [[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin"
-    weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
-[[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
+    name = "Twitch"
+    icon = "fab fa-twitch"
     weight = 5
-    url = "https://medium.com/@johndoe"
+    url = "https://twitch.com/ngorilon_"
 [[params.social]]
-    name = "RSS"
-    icon = "fas fa-rss"
+    name = "Instagram"
+    icon = "fas fa-insta"
     weight = 6
-    url = "https://myhugosite.com/index.xml"
+    url = "https://instagram.com/ngorilon_"
     rel = "alternate"
     type = "application/rss+xml"
 
