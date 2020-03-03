@@ -1,3 +1,3 @@
-+++ title = "Sobre Hugo" slug = "about" +++
++++ title = "About me" slug = "about" +++
 
 Soon.. wait for it!
