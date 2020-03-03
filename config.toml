@@ -75,7 +75,7 @@ disqusShortname = "yourdiscussshortname"
     url = "https://twitch.com/ngorilon_"
 [[params.social]]
     name = "Instagram"
-    icon = "fas fa-insta"
+    icon = "fas fa-instagram"
     weight = 6
     url = "https://instagram.com/ngorilon_"
     rel = "alternate"
